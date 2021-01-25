@@ -1,0 +1,1 @@
+g++ SilkLang.cpp Library.cpp AutoLock.cpp Lexer.cpp Interpreter.cpp Variable.cpp Token.cpp CallStack.cpp Parser.cpp AST.cpp GlobalData.cpp -o silk -ldl  -lpthread
