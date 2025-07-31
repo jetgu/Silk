@@ -39,4 +39,6 @@ main()
 - **MacOS** platform: 
   Download source code at GitHub, and extract it into any folder, please ensure you have installed XCode, and open the project file Silk.xcodeproj to build the Silk program.
 
-This is the GitHub repository of Silk source code. Please visit Silk website [Silk.sharing-file.com](http://silk.sharing-file.com/) for details. 
+This is the GitHub repository of Silk source code. Please visit Silk website [silk.sharing-file.com](http://silk.sharing-file.com/) for details.
+
+A free file sharing web server was developed in Silk language, you can download it at [sharing-file.com](http://sharing-file.com/).
